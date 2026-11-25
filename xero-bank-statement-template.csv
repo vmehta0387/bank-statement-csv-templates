@@ -1,0 +1,4 @@
+Date,Amount,Payee,Description,Reference
+2026-05-01,2500.00,Acme Corp,Monthly Retainer,INV-104
+2026-05-02,-45.00,DigitalOcean,Server Hosting,AUTO-DEBIT
+2026-05-03,-120.50,Staples,Printer Paper & Ink,CARD-8821
